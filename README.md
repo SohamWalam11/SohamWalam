@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi I'm Soham Walam<br>🧠 - ML Developer.<br>🧑‍💻 - Developer Enthusiasm.<br>🎓 - Student at DJ Sanghvi College of Engineering.<br><br>🏢 | Work Experience<br><br>Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS<br>Ex - Data Scientist Virtual Intern at BCG X <br> Data Analyst at Prasunet Foundation
+Hi I'm Soham Walam<br>🧠 - ML Developer.<br>🧑‍💻 - Developer Enthusiasm.<br>🎓 - Student at DJ Sanghvi College of Engineering.<br><br>🏢 | Work Experience<br><br>
+<img src="https://raw.githubusercontent.com/SohamWalam11/SohamWalam/main/deloitte.png" alt="Deloitte" width="50"/>  Ex - Data Analyst Virtual Intern at Deloitte.<br>Ex - Cloud Architect Virtual Intern at AWS<br>Ex - Data Scientist Virtual Intern at BCG X <br> Data Analyst at Prasunet Foundation
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soham Walam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:musicianshub010@gmail.com) 
